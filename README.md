@@ -24,24 +24,6 @@ This repository contains efficient and well-documented solutions to selected **M
 
 ---
 
-## 📂 Folder Structure
-
-```
-
-LeetCode-Medium-Problem-Solutions-in-Python/
-│
-├── 3\_Longest\_Substring\_Without\_Repeating\_Characters.py
-├── 5\_Longest\_Palindromic\_Substring.py
-├── 46\_Permutations.py
-├── 102\_Binary\_Tree\_Level\_Order\_Traversal.py
-├── 120\_Triangle.py
-├── ...
-└── README.md
-
-````
-
----
-
 ## 🚀 Getting Started
 
 ### Clone the repository:
