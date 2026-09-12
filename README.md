@@ -1,73 +1,100 @@
 # LeetCode Medium Problem Solutions in Python 🐍
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Medium%20Problems-orange)
-![Python](https://img.shields.io/badge/Language-Python-blue)
+![Python](https://img.shields.io/badge/Language-Python-3776AB)
+![Jupyter](https://img.shields.io/badge/Format-Jupyter%20Notebook-F37626)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-Welcome to **LeetCode Medium Problem Solutions in Python**!  
-This repository contains efficient and well-documented solutions to selected **Medium-level** problems from [LeetCode](https://leetcode.com/), all written in Python. It aims to serve as a helpful guide for developers and students preparing for coding interviews and competitive programming contests.
+A curated collection of Python solutions to selected medium-level problems from [LeetCode](https://leetcode.com/). This repository is designed to help learners and developers improve problem-solving skills, understand core algorithms, and prepare for coding interviews.
+
+Each solution is structured to emphasize clarity, efficiency, and correctness, with problem-focused implementations and explanations.
 
 ---
 
-## 📌 Features
+## 📌 Overview
 
-- ✅ Clear and optimized solutions for **medium-level** LeetCode problems.
-- 🧠 Covers key data structures and algorithms such as:
-  - Arrays & Strings
-  - HashMaps & Sets
-  - Binary Trees & Graphs
-  - Dynamic Programming
-  - Sliding Window
-  - Two Pointers
-- 💬 Code is commented for better understanding.
-- 📁 Each problem is stored in a separate `.py` file for ease of access.
+This repository includes solutions covering a wide range of topics commonly tested in technical interviews and competitive programming, including:
+
+- Arrays and Strings
+- Hash Maps and Sets
+- Sliding Window
+- Two Pointers
+- Binary Search
+- Dynamic Programming
+- Trees and Graphs
+- Greedy Techniques
+
+The solutions are written in Python and organized as separate problem files for easy navigation and study.
 
 ---
 
 ## 🚀 Getting Started
 
-### Clone the repository:
+### Prerequisites
+
+- Python 3.x
+- Jupyter Notebook or VS Code with Python support
+- Optional: `jupyter` installed for notebook execution
+
+### Clone the Repository
+
 ```bash
 git clone https://github.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python.git
 cd LeetCode-Medium-Problem-Solutions-in-Python
-````
-
-### Run a solution:
-
-Each file can be run independently using Python 3:
-
-```bash
-python3 3_Longest_Substring_Without_Repeating_Characters.py
 ```
 
-Make sure the required inputs are provided (if prompted or hardcoded).
+### Open and Run a Solution
+
+Most problems are stored as individual notebooks. You can open them in Jupyter Notebook or VS Code and run the cells sequentially.
+
+If you prefer to work from the terminal, you can also execute Python scripts when available:
+
+```bash
+python3 your_solution.py
+```
 
 ---
 
-## 🤝 Contribution
 
-Contributions are welcome!
-If you'd like to add more problems or improve the solutions:
+
+This layout makes it easy to search for a specific problem and study the implementation independently.
+
+---
+
+## 🧠 What You’ll Find
+
+- Optimized and readable Python solutions
+- Problem-based implementation patterns
+- Step-by-step logic for algorithm design
+- Practice-focused code for interview preparation
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you would like to improve the repository, add new solutions, or refine existing ones, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch.
-3. Add your changes.
-4. Submit a pull request.
+2. Create a feature branch.
+3. Add your solution or enhancement.
+4. Commit your changes.
+5. Open a pull request.
 
 ---
 
 ## 📧 Contact
 
 **Uditya Narayan Tiwari**
-📍 [Portfolio](https://udityanarayantiwari.netlify.app/)
-🔗 [LinkedIn](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)
-💻 [GitHub](https://github.com/udityamerit)
+
+- 🌐 [Portfolio](https://udityanarayantiwari.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)
+- 🧑‍💻 [GitHub](https://github.com/udityamerit)
 
 ---
 
-## ⭐ Star This Repo
+## ⭐ Support
 
-If you find this repository useful, please consider giving it a ⭐ to support the work!
+If you find this repository useful, please consider giving it a star to support the work and encourage future updates.
 
 ---
 
